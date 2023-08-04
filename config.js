@@ -70,16 +70,16 @@ global.APIKeys = {
 
    //---------------------------------------------------------------------
 
-   global.worktype = 'private'
+   global.worktype = 'public'
 
    //---------------------------------------------------------------------
    
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['918767327657']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['918767327657']
 
    //---------------------------------------------------------------------
    
@@ -97,7 +97,7 @@ global.APIKeys = {
 
    global.linkbuttid1 = 'ɪɴꜱᴛᴀɢʀᴀᴍ' 
    //-------------
-   global.butturl1 = 'https://www.instagram.com/alienalfa/'
+   global.butturl1 = 'https://www.instagram.com/divakar_.fr/'
    
    //---------------------------------------------------------------------
 
@@ -105,9 +105,9 @@ global.APIKeys = {
 
    //--------------------- MENU URL BUTTON 2 ------------------------
 
-   global.linkbuttid2 = 'ʏᴏᴜᴛᴜʙᴇ'
+   global.linkbuttid2 = 'WEBSITE'
    //-------------
-   global.butturl2 = 'https://youtube.com/c/alienalfa'
+   global.butturl2 = 'https://bento.me/darshandzns
    
    //---------------------------------------------------------------------
 
@@ -117,9 +117,9 @@ global.APIKeys = {
 
    //--------------------- ADPLAY OPTIONS ------------------------
 
-   global.linktext = 'ꜱᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ'
+   global.linktext = null
    //-------------
-   global.linkurl = 'https://youtube.com/c/alienalfa'
+   global.linkurl = null
    
    //---------------------------------------------------------------------
 
@@ -148,9 +148,9 @@ global.APIKeys = {
 
    //--------------------- MAIN MENU BUTTON ------------------------
    
-   global.mlinktxt1 = 'ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ'
+   global.mlinktxt1 = 'ＷＥＢＳＩＴＥ ＬＩＮＫ'
    //-------------
-   global.mlinkurl1 = 'https://youtube.com/c/alienalfa'
+   global.mlinkurl1 = 'https://bento.me/darshandzns'
    //------------- 
    
  //------ URL BUTTON 2 -----
@@ -193,31 +193,31 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 //-------------
 global.sp = '𒆜'
 //-------------
-global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.devname = 'Ｄ Ｉ Ｖ Ａ Ｋ Ａ Ｒ'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['918767327657']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
 global.listicon = '✩' 
 //-------------
-global.wm = 'ＡＬＩＥＮ ＡＬＦＡ' 
+global.wm = '𝘿 𝙀 𝙓 𝘽𝙊𝙏' 
 //-------------
-global.botname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.botname = '𝘿 𝙀 𝙓 𝘽𝙊𝙏'
 //-------------
 global.icon = '✩' 
 //-------------
-global.mail = 'AlienAlfa.YT@gmail.com'
+global.mail = 'divakarjainkar063@gmail.com'
 //-------------
-global.youtube = 'https://youtube.com/c/alienalfa'
+global.youtube = 'https://bento.me/darshandzns'
 //-------------
-global.github = 'https://github.com/Alien-alfa/' 
+global.github = 'https://github.com/Darshandzns/' 
 //-------------
-global.insta = 'https://www.instagram.com/alienalfa/' 
+global.insta = 'https://www.instagram.com/divakar_.fr/' 
 //-------------
-global.linkname = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'
+global.linkname = '𝘋𝘌𝘟 𝘉𝘖𝘛'
 //-------------
-global.mainfooter = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' 
+global.mainfooter = '𝘋𝘌𝘟 𝘉𝘖𝘛' 
 //-------------
 global.herokuapi = '' 
 //-------------
